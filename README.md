@@ -1,2 +1,2 @@
 # IE-533
-Code for IE533
+This project is for IE-533 Purdue University
